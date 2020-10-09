@@ -1,0 +1,126 @@
+﻿PokerStars Hand #219133617646:  6+ Hold'em No Limit (Button Blind $0.02 - Ante $0.02  USD) - 2020/10/07 4:24:57 JST [2020/10/06 15:24:57 ET]
+Table 'Nemo' 6-max Seat #3 is the button
+Seat 1: boorian ($2 in chips) 
+Seat 2: hungry moray ($3.45 in chips) 
+Seat 3: ZORO0777701 ($3.47 in chips) 
+Seat 4: Brodor ($4.09 in chips) 
+Seat 5: dyingSun ($2 in chips) 
+Seat 6: KenP1933 ($3.71 in chips) 
+ZORO0777701: posts button blind $0.02
+boorian: posts the ante $0.02
+hungry moray: posts the ante $0.02
+ZORO0777701: posts the ante $0.02
+Brodor: posts the ante $0.02
+dyingSun: posts the ante $0.02
+KenP1933: posts the ante $0.02
+*** HOLE CARDS ***
+Dealt to boorian [Js Ks]
+Brodor: folds 
+dyingSun: folds 
+KenP1933: calls $0.02
+boorian: raises $0.18 to $0.20
+hungry moray: folds 
+ZORO0777701: raises $3.25 to $3.45 and is all-in
+KenP1933: folds 
+boorian: folds 
+Uncalled bet ($3.25) returned to ZORO0777701
+ZORO0777701 collected $0.54 from pot
+ZORO0777701: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.54 | Rake $0 
+Seat 1: boorian folded before Flop
+Seat 2: hungry moray folded before Flop (didn't bet)
+Seat 3: ZORO0777701 (button blind) collected ($0.54)
+Seat 4: Brodor folded before Flop (didn't bet)
+Seat 5: dyingSun folded before Flop (didn't bet)
+Seat 6: KenP1933 folded before Flop
+
+
+
+PokerStars Hand #219133637617:  6+ Hold'em No Limit (Button Blind $0.02 - Ante $0.02  USD) - 2020/10/07 4:25:31 JST [2020/10/06 15:25:31 ET]
+Table 'Nemo' 6-max Seat #4 is the button
+Seat 1: boorian ($2 in chips) 
+Seat 2: hungry moray ($3.43 in chips) 
+Seat 3: ZORO0777701 ($3.79 in chips) 
+Seat 4: Brodor ($4.07 in chips) 
+Seat 5: dyingSun ($2 in chips) 
+Seat 6: KenP1933 ($3.67 in chips) 
+Brodor: posts button blind $0.02
+boorian: posts the ante $0.02
+hungry moray: posts the ante $0.02
+ZORO0777701: posts the ante $0.02
+Brodor: posts the ante $0.02
+dyingSun: posts the ante $0.02
+KenP1933: posts the ante $0.02
+*** HOLE CARDS ***
+Dealt to boorian [Ad Ah]
+dyingSun: folds 
+KenP1933: calls $0.02
+boorian: raises $0.14 to $0.16
+hungry moray: folds 
+ZORO0777701: folds 
+Brodor: folds 
+KenP1933: folds 
+Uncalled bet ($0.14) returned to boorian
+boorian collected $0.18 from pot
+boorian: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0 
+Seat 1: boorian collected ($0.18)
+Seat 2: hungry moray folded before Flop (didn't bet)
+Seat 3: ZORO0777701 folded before Flop (didn't bet)
+Seat 4: Brodor (button blind) folded before Flop
+Seat 5: dyingSun folded before Flop (didn't bet)
+Seat 6: KenP1933 folded before Flop
+
+
+
+PokerStars Hand #219133653400:  6+ Hold'em No Limit (Button Blind $0.02 - Ante $0.02  USD) - 2020/10/07 4:25:57 JST [2020/10/06 15:25:57 ET]
+Table 'Nemo' 6-max Seat #5 is the button
+Seat 1: boorian ($2.14 in chips) 
+Seat 2: hungry moray ($3.41 in chips) 
+Seat 3: ZORO0777701 ($3.77 in chips) 
+Seat 4: Brodor ($4.03 in chips) 
+Seat 5: dyingSun ($2 in chips) 
+Seat 6: KenP1933 ($3.63 in chips) 
+dyingSun: posts button blind $0.02
+boorian: posts the ante $0.02
+hungry moray: posts the ante $0.02
+ZORO0777701: posts the ante $0.02
+Brodor: posts the ante $0.02
+dyingSun: posts the ante $0.02
+KenP1933: posts the ante $0.02
+*** HOLE CARDS ***
+Dealt to boorian [Jh Jd]
+KenP1933: calls $0.02
+boorian: calls $0.02
+hungry moray: calls $0.02
+ZORO0777701: raises $0.02 to $0.04
+Brodor: folds 
+dyingSun: folds 
+KenP1933: calls $0.02
+boorian: calls $0.02
+hungry moray: calls $0.02
+*** FLOP *** [Ks Ad 8h]
+KenP1933: checks 
+boorian: checks 
+hungry moray: checks 
+ZORO0777701: bets $0.29
+KenP1933: folds 
+boorian: folds 
+hungry moray: folds 
+Uncalled bet ($0.29) returned to ZORO0777701
+ZORO0777701 collected $0.29 from pot
+ZORO0777701: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ks Ad 8h]
+Seat 1: boorian folded on the Flop
+Seat 2: hungry moray folded on the Flop
+Seat 3: ZORO0777701 collected ($0.29)
+Seat 4: Brodor folded before Flop (didn't bet)
+Seat 5: dyingSun (button blind) folded before Flop
+Seat 6: KenP1933 folded on the Flop
+
+
+

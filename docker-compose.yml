@@ -1,0 +1,26 @@
+version: '3.2'
+services:
+  web:
+    build: .
+    ports:
+      - '4000:4000'
+    command: mix phx.server
+    environment:
+      MIX_ENV: dev
+      PORT: 4000
+      DATABASE_URL: 'oht_user:oht_user@docker_mysql/open_hand_tracker_dev'
+    volumes:
+      - .:/app
+  db:
+    image: mysql:5.7
+    container_name: docker_mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: open_hand_tracker_dev
+      MYSQL_USER: oht_user
+      MYSQL_PASSWORD: oht_user
+      TZ: 'Asia/Tokyo'
+    volumes:
+      - ./docker/db/data:/var/lib/mysql
+      - ./docker/db/my.cnf:/etc/mysql/conf.d/my.cnf
+      - ./docker/db/log:/var/log/mysql
