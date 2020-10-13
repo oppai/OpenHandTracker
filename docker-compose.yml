@@ -11,6 +11,8 @@ services:
       DATABASE_URL: 'oht_user:oht_user@docker_mysql/open_hand_tracker_dev'
     volumes:
       - .:/app
+    depends_on:
+      - db
   db:
     image: mysql:5.7
     container_name: docker_mysql

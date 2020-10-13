@@ -7,9 +7,9 @@ use Mix.Config
 # Run `mix help test` for more information.
 config :open_hand_tracker, OpenHandTracker.Repo,
   username: "root",
-  password: "",
+  password: "root",
   database: "open_hand_tracker_test#{System.get_env("MIX_TEST_PARTITION")}",
-  hostname: "localhost",
+  hostname: "docker_mysql",
   pool: Ecto.Adapters.SQL.Sandbox
 
 # We don't run a server during test. If one is required,

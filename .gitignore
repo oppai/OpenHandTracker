@@ -28,3 +28,4 @@ open_hand_tracker-*.tar
 /priv/static/
 
 /docker/db/data/
+/docker/db/log/
